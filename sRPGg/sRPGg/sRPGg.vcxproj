@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="spawn_item.cpp" />
     <ClCompile Include="sRPGg.cpp" />
   </ItemGroup>
   <ItemGroup>
