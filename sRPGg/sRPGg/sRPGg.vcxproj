@@ -143,10 +143,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a17120
 <<<<<<< HEAD
 <<<<<<< HEAD
     <ClCompile Include="Armor.cpp" />
+=======
+    <ClCompile Include="module_generation_npc.cpp" />
+>>>>>>> module_generation_npc
     <ClCompile Include="sRPGg.cpp" />
 <<<<<<< HEAD
     <ClCompile Include="Vehicle.cpp" />
@@ -216,6 +220,9 @@
   <ItemGroup>
     <ClInclude Include="Weapon.h" />
 >>>>>>> module_weapon
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="module_generation_npc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
