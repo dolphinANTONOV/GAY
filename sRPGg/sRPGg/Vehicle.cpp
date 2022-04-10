@@ -14,3 +14,8 @@ void vehicle::vehicle_()
 {
 	/*Код настройки автомобиля*/
 }
+
+void vehicle::up_vehicle()
+{
+	/*Код оптимизации автомобиля*/
+}
