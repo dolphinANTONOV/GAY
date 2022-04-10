@@ -9,3 +9,8 @@ void skills::cheating_skills()
 {
 	/*Код изменения навыков персонажа*/
 }
+
+void skills::up_skill()
+{
+	/*Код повышения навыков*/
+}
