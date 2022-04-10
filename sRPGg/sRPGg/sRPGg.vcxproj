@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< .merge_file_a17120
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -173,6 +174,13 @@
   <ItemGroup>
     <ClInclude Include="module_generation_npc.h" />
 >>>>>>> .merge_file_a13860
+=======
+    <ClCompile Include="module_generation_player.cpp" />
+    <ClCompile Include="sRPGg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="module_generation_player.h" />
+>>>>>>> module_generation_player
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,6 +18,7 @@
     <ClCompile Include="sRPGg.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35,10 +36,14 @@
 =======
     <ClCompile Include="module_generation_npc.cpp">
 >>>>>>> .merge_file_a06212
+=======
+    <ClCompile Include="module_generation_player.cpp">
+>>>>>>> module_generation_player
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -56,6 +61,9 @@
 =======
     <ClInclude Include="module_generation_npc.h">
 >>>>>>> .merge_file_a06212
+=======
+    <ClInclude Include="module_generation_player.h">
+>>>>>>> module_generation_player
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
