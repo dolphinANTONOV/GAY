@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="module_generation_world.cpp" />
     <ClCompile Include="sRPGg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="module_generation_world.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
