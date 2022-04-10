@@ -27,3 +27,8 @@ int generation_world::load_save_world(bool flag)
 	/*Код загрузки измененного/сохраненного игрового мира игроком*/
 	return flag;
 }
+
+void generation_world::arrangement_object()
+{
+	/*Код расстановки объектов по игровому миру*/
+}

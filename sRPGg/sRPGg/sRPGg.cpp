@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-
+#include "module_generation_world.cpp"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
 
 
