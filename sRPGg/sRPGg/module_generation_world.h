@@ -9,7 +9,7 @@ private:
 public:
 	void generation();
 	void load_object();
-	void load_save_world();
+	int load_save_world(bool flag);
 	void arrangement_object();
 	void load_world();
 };

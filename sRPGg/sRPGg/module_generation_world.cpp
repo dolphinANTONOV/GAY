@@ -14,4 +14,16 @@ void generation_world::load_object()
 void generation_world::load_world()
 {
 	/* од загрузки игрового мира*/
+	if (load_save_world(false) == true)
+	{
+		/*√рузим сохраненный мир игрока*/
+	
+	}
+
+}
+int generation_world::load_save_world(bool flag)
+{
+	
+	/* од загрузки измененного/сохраненного игрового мира игроком*/
+	return flag;
 }
