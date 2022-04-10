@@ -23,6 +23,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -55,10 +56,14 @@
 =======
     <ClCompile Include="Vehicle.cpp">
 >>>>>>> module_vehicle
+=======
+    <ClCompile Include="weapon.cpp">
+>>>>>>> module_weapon
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -96,6 +101,9 @@
 =======
     <ClInclude Include="Vehicle.h">
 >>>>>>> module_vehicle
+=======
+    <ClInclude Include="Weapon.h">
+>>>>>>> module_weapon
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
