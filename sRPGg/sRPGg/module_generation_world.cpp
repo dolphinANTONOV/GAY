@@ -3,10 +3,15 @@
 
 void generation_world::generation()
 {
-	/*Сгенерировали игровой мир*/
+	/*Код генерации игрового мира*/
 }
 
 void generation_world::load_object()
 {
 	/*Код загрузки объектов игрового мира*/
+}
+
+void generation_world::load_world()
+{
+	/*Код загрузки игрового мира*/
 }
