@@ -18,12 +18,20 @@
     <ClCompile Include="sRPGg.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Armor.cpp">
+=======
+    <ClCompile Include="attack.cpp">
+>>>>>>> module_attack
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="Armor.h">
+=======
+    <ClInclude Include="Attack.h">
+>>>>>>> module_attack
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
