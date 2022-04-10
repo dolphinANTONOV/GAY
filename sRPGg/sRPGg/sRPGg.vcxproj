@@ -142,6 +142,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a17120
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -197,6 +198,13 @@
   <ItemGroup>
     <ClInclude Include="Skills.h" />
 >>>>>>> module_skills
+=======
+    <ClCompile Include="spawn_item.cpp" />
+    <ClCompile Include="sRPGg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="spawn_item.h" />
+>>>>>>> module_spawn_item
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
