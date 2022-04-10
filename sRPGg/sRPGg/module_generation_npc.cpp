@@ -20,3 +20,8 @@ void generation_npc::load_location_spawn_NPC()
 {
 	/*Код загрузки и ростановки спавна неигровых персонажей*/
 }
+
+void generation_npc::spawn_NPC()
+{
+	/*Код спавна неигровых персонажей в игровом мире*/
+}
