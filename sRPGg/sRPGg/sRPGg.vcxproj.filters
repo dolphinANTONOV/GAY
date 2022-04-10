@@ -20,6 +20,7 @@
     </ClCompile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -43,10 +44,14 @@
 =======
     <ClCompile Include="module_generation_world.cpp">
 >>>>>>> module_generation_world
+=======
+    <ClCompile Include="skills.cpp">
+>>>>>>> module_skills
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< .merge_file_a16680
@@ -72,6 +77,9 @@
 =======
     <ClInclude Include="module_generation_world.h">
 >>>>>>> module_generation_world
+=======
+    <ClInclude Include="Skills.h">
+>>>>>>> module_skills
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
