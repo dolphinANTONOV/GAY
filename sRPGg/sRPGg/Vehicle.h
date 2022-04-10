@@ -9,6 +9,6 @@ private:
 public:
 	void control();
 	void up_vehicle();
-	void fuel();
+	void fuel_();
 	void vehicle_();
 };
