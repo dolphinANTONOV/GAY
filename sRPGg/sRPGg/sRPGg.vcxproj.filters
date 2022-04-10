@@ -20,6 +20,7 @@
     </ClCompile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="Armor.cpp">
 =======
     <ClCompile Include="attack.cpp">
@@ -27,10 +28,14 @@
 =======
     <ClCompile Include="Build.cpp">
 >>>>>>> module_build
+=======
+    <ClCompile Include="create_items.cpp">
+>>>>>>> module_create_item
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <ClInclude Include="Armor.h">
@@ -40,6 +45,9 @@
 =======
     <ClInclude Include="build.h">
 >>>>>>> module_build
+=======
+    <ClInclude Include="Create_Item.h">
+>>>>>>> module_create_item
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

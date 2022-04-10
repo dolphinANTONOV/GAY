@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="Armor.cpp" />
     <ClCompile Include="sRPGg.cpp" />
   </ItemGroup>
@@ -157,6 +158,13 @@
   <ItemGroup>
     <ClInclude Include="build.h" />
 >>>>>>> module_build
+=======
+    <ClCompile Include="create_items.cpp" />
+    <ClCompile Include="sRPGg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Create_Item.h" />
+>>>>>>> module_create_item
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
