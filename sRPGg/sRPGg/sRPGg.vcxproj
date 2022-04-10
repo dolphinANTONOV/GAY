@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="module_generation_player.cpp" />
     <ClCompile Include="sRPGg.cpp" />
   </ItemGroup>
   <ItemGroup>
