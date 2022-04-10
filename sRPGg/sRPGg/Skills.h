@@ -10,5 +10,5 @@ public:
 	void create_skill();
 	void up_skill();
 	void cheating_skills();
-	void level();
+	void level_settings();
 };
