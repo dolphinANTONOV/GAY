@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="sRPGg.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="module_generation_player.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
