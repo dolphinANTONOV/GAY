@@ -19,6 +19,7 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -39,10 +40,14 @@
 =======
     <ClCompile Include="module_generation_player.cpp">
 >>>>>>> module_generation_player
+=======
+    <ClCompile Include="module_generation_world.cpp">
+>>>>>>> module_generation_world
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
@@ -64,6 +69,9 @@
 =======
     <ClInclude Include="module_generation_player.h">
 >>>>>>> module_generation_player
+=======
+    <ClInclude Include="module_generation_world.h">
+>>>>>>> module_generation_world
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
