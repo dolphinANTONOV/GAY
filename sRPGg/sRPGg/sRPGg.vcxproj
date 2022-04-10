@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="Armor.cpp" />
     <ClCompile Include="sRPGg.cpp" />
   </ItemGroup>
@@ -149,6 +150,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Attack.h" />
+=======
+    <ClCompile Include="Build.cpp" />
+    <ClCompile Include="sRPGg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="build.h" />
+>>>>>>> module_build
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

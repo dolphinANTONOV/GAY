@@ -19,19 +19,27 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="Armor.cpp">
 =======
     <ClCompile Include="attack.cpp">
 >>>>>>> module_attack
+=======
+    <ClCompile Include="Build.cpp">
+>>>>>>> module_build
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClInclude Include="Armor.h">
 =======
     <ClInclude Include="Attack.h">
 >>>>>>> module_attack
+=======
+    <ClInclude Include="build.h">
+>>>>>>> module_build
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
