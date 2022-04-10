@@ -22,6 +22,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a16680
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -51,10 +52,14 @@
 =======
     <ClCompile Include="spawn_item.cpp">
 >>>>>>> module_spawn_item
+=======
+    <ClCompile Include="Vehicle.cpp">
+>>>>>>> module_vehicle
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -88,6 +93,9 @@
 =======
     <ClInclude Include="spawn_item.h">
 >>>>>>> module_spawn_item
+=======
+    <ClInclude Include="Vehicle.h">
+>>>>>>> module_vehicle
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

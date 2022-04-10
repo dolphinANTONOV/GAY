@@ -148,6 +148,10 @@
 <<<<<<< HEAD
     <ClCompile Include="Armor.cpp" />
     <ClCompile Include="sRPGg.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Armor.h" />
