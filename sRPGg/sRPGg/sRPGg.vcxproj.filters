@@ -18,100 +18,58 @@
     <ClCompile Include="sRPGg.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< .merge_file_a16680
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <ClCompile Include="Armor.cpp">
-=======
+</ClCompile>
     <ClCompile Include="attack.cpp">
->>>>>>> module_attack
-=======
+</ClCompile>
     <ClCompile Include="Build.cpp">
->>>>>>> module_build
-=======
+</ClCompile>
     <ClCompile Include="create_items.cpp">
->>>>>>> module_create_item
-=======
+</ClCompile>
     <ClCompile Include="module_generation_npc.cpp">
->>>>>>> .merge_file_a06212
-=======
+</ClCompile>
     <ClCompile Include="module_generation_player.cpp">
->>>>>>> module_generation_player
-=======
+</ClCompile>
     <ClCompile Include="module_generation_world.cpp">
->>>>>>> module_generation_world
-=======
+</ClCompile>
     <ClCompile Include="skills.cpp">
->>>>>>> module_skills
-=======
+</ClCompile>
     <ClCompile Include="spawn_item.cpp">
->>>>>>> module_spawn_item
-=======
+</ClCompile>
     <ClCompile Include="Vehicle.cpp">
->>>>>>> module_vehicle
-=======
+</ClCompile>
     <ClCompile Include="weapon.cpp">
->>>>>>> module_weapon
-=======
+</ClCompile>
     <ClCompile Include="module_generation_npc.cpp">
->>>>>>> module_generation_npc
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< .merge_file_a16680
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <ClInclude Include="Armor.h">
-=======
+	</ClInclude>
     <ClInclude Include="Attack.h">
->>>>>>> module_attack
-=======
+	</ClInclude>
     <ClInclude Include="build.h">
->>>>>>> module_build
-=======
+</ClInclude>
     <ClInclude Include="Create_Item.h">
->>>>>>> module_create_item
-=======
+</ClInclude>
     <ClInclude Include="module_generation_npc.h">
->>>>>>> .merge_file_a06212
-=======
+</ClInclude>
     <ClInclude Include="module_generation_player.h">
->>>>>>> module_generation_player
-=======
+</ClInclude>
     <ClInclude Include="module_generation_world.h">
->>>>>>> module_generation_world
-=======
+</ClInclude>
     <ClInclude Include="Skills.h">
->>>>>>> module_skills
-=======
+</ClInclude>
     <ClInclude Include="spawn_item.h">
->>>>>>> module_spawn_item
-=======
+</ClInclude>
     <ClInclude Include="Vehicle.h">
->>>>>>> module_vehicle
-=======
+</ClInclude>
     <ClInclude Include="Weapon.h">
->>>>>>> module_weapon
-=======
+</ClInclude>
     <ClInclude Include="module_generation_npc.h">
->>>>>>> module_generation_npc
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
