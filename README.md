@@ -1,2 +1,2 @@
-# dolphinANTONOV.github.io
+# survivalRPGgame
 Специальный проект по созданию RPG игры с элементами выживания
